@@ -73,11 +73,12 @@ Pipeline is divided into two stages:
 
 ## Authors
 
+- [@Adarsh Singh](https://github.com/adarsh2912)
 - [@Abhishek Jha](https://github.com/13AbhishekJha)
 - [@Shivam Mishra](https://github.com/shivam1974)
 - [@Nancy Gandhi](https://github.com/nancygandhi22)
 - [@Gayathri Rajendran](https://github.com/GayathriRajendran17)
 - [@Priyanshi Goyal](https://github.com/priyanshi149)
-- [@Adarsh Singh](https://github.com/adarsh2912)
+
 
 
